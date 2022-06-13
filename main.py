@@ -29,4 +29,6 @@ def choice():
             else:
                 print("Rock breaks Scissors. CPU win")
         break
+
+
 choice()
